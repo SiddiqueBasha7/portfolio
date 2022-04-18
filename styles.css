@@ -299,6 +299,10 @@ main {
   border: 0.2px solid var(--clr-primary);
 }
 
+.team {
+  justify-content: center;
+}
+
 .contact {
   flex-direction: column;
 }
